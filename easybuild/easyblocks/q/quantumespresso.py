@@ -1,4 +1,5 @@
 ##
+# Just a comment of Liang 
 # Copyright 2009-2016 Ghent University
 #
 # This file is part of EasyBuild,
